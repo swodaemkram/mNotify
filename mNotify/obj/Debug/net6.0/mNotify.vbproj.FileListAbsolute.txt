@@ -1,0 +1,15 @@
+C:\Users\mark\source\repos\mNotify\bin\Debug\net6.0\mNotify.exe
+C:\Users\mark\source\repos\mNotify\bin\Debug\net6.0\mNotify.deps.json
+C:\Users\mark\source\repos\mNotify\bin\Debug\net6.0\mNotify.runtimeconfig.json
+C:\Users\mark\source\repos\mNotify\bin\Debug\net6.0\mNotify.dll
+C:\Users\mark\source\repos\mNotify\bin\Debug\net6.0\mNotify.pdb
+C:\Users\mark\source\repos\mNotify\obj\Debug\net6.0\mNotify.vbproj.AssemblyReference.cache
+C:\Users\mark\source\repos\mNotify\obj\Debug\net6.0\mNotify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mark\source\repos\mNotify\obj\Debug\net6.0\mNotify.AssemblyInfoInputs.cache
+C:\Users\mark\source\repos\mNotify\obj\Debug\net6.0\mNotify.AssemblyInfo.vb
+C:\Users\mark\source\repos\mNotify\obj\Debug\net6.0\mNotify.vbproj.CoreCompileInputs.cache
+C:\Users\mark\source\repos\mNotify\obj\Debug\net6.0\mNotify.dll
+C:\Users\mark\source\repos\mNotify\obj\Debug\net6.0\refint\mNotify.dll
+C:\Users\mark\source\repos\mNotify\obj\Debug\net6.0\mNotify.pdb
+C:\Users\mark\source\repos\mNotify\obj\Debug\net6.0\mNotify.genruntimeconfig.cache
+C:\Users\mark\source\repos\mNotify\obj\Debug\net6.0\ref\mNotify.dll
